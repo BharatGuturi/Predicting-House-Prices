@@ -33,22 +33,22 @@ To run this project, following steps to be executed:
     db_UserName= <username>
     db_Password= <userpassword>
     <username> and <userpassword> are the user's usernames and passwords for postgressql connection
-3.  Execute the 'ETL.ipynb' file to load the data into database
-4.  Execute the 'ML_Prediction.ipynb' file
-5.  Import required libraries using following commands in PredictionAPI folder
+5.  Execute the 'ETL.ipynb' file to load the data into database
+6.  Execute the 'ML_Prediction.ipynb' file
+7.  Import required libraries using following commands in PredictionAPI folder
     pip install SQLAlchemy
     pip install Flask-Cors
     pip install Flask
     pip install python-dotenv
     pip install -U scikit-learn 
-5.  Execute the 'app.py' file from 'PredictionAPI' folder
-6.  Execute the 'HousingPrices.html' from 'PredictionWeb' folder or below URL for website deployed in Heroku
+8.  Execute the 'app.py' file from 'PredictionAPI' folder
+9.  Execute the 'HousingPrices.html' from 'PredictionWeb' folder or below URL for website deployed in Heroku
         Heroku deployed website: https://perth-house-prices.herokuapp.com/
 
 ## Deployment in Heroku
     Use the following link to access the web application in Heroku
     https://perth-house-prices.herokuapp.com/
-    Note: Please note that steps 1 to 5 in the above section (Execution of the code) should be executed before executing the heroku web app.
+    Note: Please note that steps 1 to 8 in the above section (Execution of the code) should be executed before executing the heroku web app.
 
 ## Team Members
 Bharat Guturi
