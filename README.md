@@ -9,6 +9,8 @@ https://www.kaggle.com/datasets/syuzai/perth-house-prices
 
 ## Architecture Diagram
 
+<p align="center"><img src='https://github.com/BharatGuturi/leaflet-challenge/blob/main/Output/earthquake_depths_and_legend.png' width = 80% ></p> 
+
 
 ## Contents of the Folders
 1.  PredicationWeb: Files related to Webapp
@@ -34,6 +36,76 @@ https://www.kaggle.com/datasets/syuzai/perth-house-prices
 
 ## Team Members
 Bharat Guturi
+
+## Dataset Tables - Raw & Modified
+
+#### all_perth_prices.csv - Raw
+
+
+## Applications used:
+
+Python - Libraries: Pandas, SQLAlchemy
+
+Jupyter Notebook
+
+Database - PGAdmin (PostgresSQL)
+
+Javascript - Libraries: d3, plotly
+
+UI - Bootstrap, html, css
+
+Installation of Flask Cors is required - Use pip install -U flask-cors 
+
+## Process:
+
+### Extract :
+
+Import dependecies and the libraries
+
+### Transform:
+
+Transform tables to formal specification
+
+##### Data Modelling - Tables :
+
+Create the tables  
+
+### Load:
+
+Connect to postgres SQL database -> load data.
+
+Formal specification to be created that defines the tables format can be imported into postgres SQL database.
+
+### Imported tables:
+
+
+### Data Analysis and Visualisations :
+
+### Box Plot before filtering the data
+
+
+### Box Plot after filtering the data
+
+
+### Box Plot after filtering the data
+
+
+### Correlation Matrix
+
+
+### Visualisation of existing data after filtering
+
+
+### Accuracies of various models
+
+
+### Web application
+
+
+### Web application output
+
+
+### Responsive Visualisations and outputs
 
 
 
