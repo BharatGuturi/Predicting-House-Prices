@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/syuzai/perth-house-prices
 
 ## Architecture Diagram
 
-<p align="center"><img src='https://github.com/BharatGuturi/leaflet-challenge/blob/main/Output/earthquake_depths_and_legend.png' width = 80% ></p> 
+<p align="center"><img src='https://github.com/BharatGuturi/Predicting-House-Prices/blob/main/Images/Architecture_diagram.png' width = 80% ></p> 
 
 
 ## Contents of the Folders
@@ -33,6 +33,11 @@ https://www.kaggle.com/datasets/syuzai/perth-house-prices
 4.  Execute the 'ML_Prediction.ipynb' file
 5.  Execute the 'app.py' file from 'PredictionsAPI' folder
 6.  Execute the 'HousingPrices.html' from 'PredictionWeb' folder
+
+## Deployment in Heroku
+    Use the following link to access the web application in Heroku
+    https://perth-house-prices.herokuapp.com/
+    Note: Please note that steps 1 to 5 in the above section (Execution of the code) should be executed before executing the heroku web app.
 
 ## Team Members
 Bharat Guturi
