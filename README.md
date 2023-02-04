@@ -1,8 +1,4 @@
 # Predicting House Prices in Perth
-This project focusses on predicting the house prices in Perth using the Machine Learning algorithms.
-
-## Project Title - Predicting House Prices in Perth
-
 It is everyones dream to buy a home. For someone who is thinking of buying a new house, this model aims to predict the house prices in the suburb of Perth. This data is analysed based on the available historical data of house prices in Perth.
 
 ## Sources of Data
